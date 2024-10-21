@@ -1,1 +1,28 @@
+<!DOCTYPE html>
+</head>
+<metacharset="UFT-8">
+<html lang="en">
+
+    <title>PCbuilder</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .bordered {
+            border: 5px solid red;
+            padding: 20px;
+            font-size: 2em;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="bordered">PCbuilder</div>
+</body>
+</html>
 
